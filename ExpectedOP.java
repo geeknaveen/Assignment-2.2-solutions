@@ -1,3 +1,4 @@
+// Write a program to print the following pattern:  
 package asst2_2;
 
 public class ExpectedOP {
